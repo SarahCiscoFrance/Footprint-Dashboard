@@ -23,6 +23,15 @@ signage
 The data displayed depends on the url:
 ```http://websrv2.ciscofrance.com:15124/MAC_ADDRESS```  where the MAC_ADDRESS is the variable part
 
+### The footprint Algorithm:
+
+I created an algorithm which is based on location of the endpoint. the algorithm choose the
+most suitable mode of transport to link 2 cities and thus determine the carbon footprint
+saved thanks to cisco.  
+
+So the mode of transport chosen depends on the distance between the two callers:  
+For example, if you have a call between Cannes and Nice the algorithm will choose the CAR and if you have a call between Paris and New York the algorithm will choose the case of a business flight
+
 ### Questions ?
 if you have questions contact:
 - **Email**: rudferna@cisco.ocm
