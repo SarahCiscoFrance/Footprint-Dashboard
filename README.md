@@ -19,6 +19,14 @@ data and call an external API in order to generate a specific footprint page to 
 signage
 ![Image description](https://i.ibb.co/5TR31xk/Capture-d-e-cran-2020-05-22-a-23-04-03.png)
 
+The data displayed depends on the url:
+```http://websrv2.ciscofrance.com:15124/MAC_ADDRESS```  where the MAC_ADDRESS is the variable part
+
+### Questions ?
+if you have questions contact:
+- **Email**: rudferna@cisco.ocm
+- **Github**: [rocket-star](https://github.com/rocket-star/)
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
