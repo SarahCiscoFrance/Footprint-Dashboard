@@ -1,5 +1,6 @@
 # Footprint-Dashboard
 ![Image description](https://i.ibb.co/JHyBH2n/Capture-d-e-cran-2020-05-22-a-22-47-43.png)
+![Image description](https://i.ibb.co/yFBMmb7/Capture-d-e-cran-2020-05-22-a-23-27-25.png)
 
 ### What is it ?
 A dashboard that estimates the carbon footprint saved for a month thanks the use of a
