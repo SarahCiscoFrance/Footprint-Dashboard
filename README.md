@@ -35,7 +35,7 @@ most suitable mode of transport to link 2 cities and thus determine the carbon f
 saved thanks to cisco.
 
 So the mode of transport chosen depends on the distance between the two callers:  
-For example, if you have a call between Cannes and Nice the algorithm will choose the CAR and if you have a call between Paris and New York the algorithm will choose the case of a business flight.
+For example, if you have a call between Cannes and Nice the algorithm will choose the car and if you have a call between Paris and New York the algorithm will choose the case of a business flight.
 
 ### Questions ?
 
