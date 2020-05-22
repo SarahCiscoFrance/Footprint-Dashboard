@@ -1,3 +1,24 @@
+# Footprint-Dashboard
+![Image description](https://i.ibb.co/JHyBH2n/Capture-d-e-cran-2020-05-22-a-22-47-43.png)
+
+### What is it ?
+A dashboard that estimates the carbon footprint saved for a month thanks the use of a
+webex device.
+it also estimates the time and number of trips saved.
+This page can be displayed directly on endpoint by the Use of digital Signage
+and the data are refreshed after every call
+
+### Why ?
+**To answer these questions:**
+- How many metric tonnes of greenhouse gas emissions did Cisco avoid ?
+- How much time do you save by using Cisco terminal?
+
+### How it works?
+At the end of each call the server collects the history of call, then the service process all the
+data and call an external API in order to generate a specific footprint page to display in digital
+signage
+![Image description](https://i.ibb.co/5TR31xk/Capture-d-e-cran-2020-05-22-a-23-04-03.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
